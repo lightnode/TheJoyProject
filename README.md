@@ -13,6 +13,7 @@ One of the main limitations of IPFS is the hash address of pages change each tim
 
 ## Tools
 - [IPFS](https://ipfs.io/) - Hosting
+- [Gitcoin](https://gitcoin.co) - Bounties/Technical Help/Kudos
 - [Colony](https://colony.io) - DAO (yes, a DAO)
 - [OpenBazaar](https://openbazaar.org) - Marketplace
 - [Y'alls](https://yalls.org/) - Blog/Monetization (BTC)

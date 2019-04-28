@@ -9,9 +9,15 @@ Recreate and make every recipe featured in Joy of Cooking and upload to IPFS so 
 
 One of the main limitations of IPFS is the hash address of pages change each time a page is updated. This won't be an issue since once a recipe is completed, it can in a sense be _printed_ to IPFS.
 
+[_original tweet thread_](https://twitter.com/heychase_/status/1122515244616646657)
+
 ## Tools
-- IPFS
-- Colony
-- OpenBazaar
-- Y'alls
-- Cent
+- [IPFS](https://ipfs.io/) - Hosting
+- [Colony](https://colony.io) - DAO (yes, a DAO)
+- [OpenBazaar](https://openbazaar.org) - Marketplace
+- [Y'alls](https://yalls.org/) - Blog/Monetization Experiment
+- [Cent](https://beta.cent.co/) - Blog/Monetization Experiment
+
+## So, uh.. how would a Colony DAO work exactly?
+
+

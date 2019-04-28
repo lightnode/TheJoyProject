@@ -15,9 +15,15 @@ One of the main limitations of IPFS is the hash address of pages change each tim
 - [IPFS](https://ipfs.io/) - Hosting
 - [Colony](https://colony.io) - DAO (yes, a DAO)
 - [OpenBazaar](https://openbazaar.org) - Marketplace
-- [Y'alls](https://yalls.org/) - Blog/Monetization Experiment
-- [Cent](https://beta.cent.co/) - Blog/Monetization Experiment
+- [Y'alls](https://yalls.org/) - Blog/Monetization (BTC)
+- [Cent](https://beta.cent.co/) - Blog/Monetization (ETH)
 
 ## So, uh.. how would a Colony DAO work exactly?
+
+### Domains and Skills
+
+### Tasks
+
+### JOY Token
 
 

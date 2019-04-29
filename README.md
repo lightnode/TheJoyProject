@@ -22,13 +22,13 @@ One of the main limitations of IPFS is the hash address of pages change each tim
 ## So, uh.. how would a Colony DAO work exactly?
 Colony is a tool for open organizations. It provides a flexible framework for groups of people to coordinate and collaborate on projects and/or businesses.
 
-A Joy of Cooking Colony would provide a fun, low-stakes experiment that, with a few tweaks, could become the foundation for a number of subsequent projects similar in scope and domain.
+A Joy of Cooking Colony would be a fun, low-stakes experiment that could, with a few tweaks, become the foundation for a number of subsequent projects similar in scope and domain.
 
 
 ### Tasks
-Tasks in a Colony are used to coordinate work and track reputation. Completing tasks gets you paid and/or earns you reputation in the form of a token.
+Tasks in a Colony are used to coordinate work and facilitate the earning of reputation. Completing tasks gets you paid and/or earns you reputation in the form of a token.
 
-In a Joy of Cooking Colony, the base tasks would be:
+The base tasks in The Joy of Cooking Colony would be:
 - Recreate a specific recipe according to spec
 - Provide or produce an ingredient for a specific recipe
 - Upload completed recipe to IPFS and record hash in appropriate places
@@ -40,16 +40,20 @@ Tasks in a Colony are organized under Domains. Reputation can be earned in vario
 
 Domains are a structure for compartmentalizing the work and shared resources of a colony into smaller, more specialized sub-groups which are analogous to the departments of a traditional company.
 
-The domains in a Joy of Cooking Colony could be:
+The base domains in The Joy of Cooking Colony would be:
 - Chef
 - Producer
 - Consumer
 - Designer
-- Engineer
 
 Skills are a similar structure that categorize the _type_ of work done, independent of the domain or colony in which the work took place.
 
 Skills are shared globally by _all colonies_, not just the Joy of Cooking Colony. Even though skills exist universally, reputation earned in the skill hierarchy is still unique to each colony.
+
+I'd imagine skills in The Joy of Cooking Colony would be more technical skills such as:
+- Developer
+- Front End
+- Back End
 
 ### JOY Token
 The JOY Token is the native token for The Joy of Cooking Colony. JOY is earned by completing tasks, and represents the reputation earned in the colony. It can also be used as credit when purchasing Joy of Cooking Colony merch, thereby granting it a monetary value greater than zero.

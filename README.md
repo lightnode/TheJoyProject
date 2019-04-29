@@ -58,5 +58,5 @@ I'd imagine skills in The Joy of Cooking Colony would be more technical skills s
 ### JOY Token
 The JOY Token is the native token for The Joy of Cooking Colony. JOY is earned by completing tasks, and represents the reputation earned in the colony. It can also be used as credit when purchasing Joy of Cooking Colony merch, thereby granting it a monetary value greater than zero.
 
-Any funds contributed or earned by the colony will also be distributed in proportion to the amount of JOY each participant holds in their respective wallet.
+Any funds contributed to or earned by the colony will also be distributed in proportion to the amount of JOY each participant holds in their respective wallet.
 

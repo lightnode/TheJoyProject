@@ -48,6 +48,7 @@ The base domains in The Joy Colony would be:
 - Producer
 - Patron
 - Designer
+- Publisher
 
 Skills are a similar structure that categorize the _type_ of work done, independent of the domain or colony in which the work took place.
 

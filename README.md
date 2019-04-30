@@ -1,7 +1,7 @@
 ![Joy of Cooking Cover](./images/joyOfCookingCover.png)
 
 
-# Joy of Cooking, Crypto, and Collaboration
+# Joy of Cooking, Community, Crypto, and Collaboration
 This is intended to be a collaborative experiment using existing and future web3 tools. The goal will be to create a permanent, historical digital record of the classic 1931 cookbook, Joy of Cooking.
 
 Ancillary goals include introducing more people to crypto, gather user feedback for the different tools used, and practicing decentralized coordination.

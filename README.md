@@ -24,7 +24,7 @@ One of the main limitations of IPFS is the hash address of pages change each tim
 ## So, uh.. how would a Colony DAO work exactly?
 Colony is a tool for open organizations. It provides a flexible framework for groups of people to coordinate and collaborate on projects, communities, and/or businesses.
 
-A Joy Colony would be a fun, low-stakes experiment that could, with a few tweaks, become the foundation for a number of subsequent projects similar in scope and domain–e.g. pop-up events, recipe testing, community gardens, etc..
+A Colony based on Joy of Cooking would be a fun, low-stakes experiment that could, with a few tweaks, become the foundation for a number of subsequent projects similar in scope and domain–e.g. pop-up events, recipe testing, community gardens, etc..
 
 
 ### Tasks

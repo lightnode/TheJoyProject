@@ -24,17 +24,19 @@ The JOY Project is a fun, low-stakes experiment that could, with a few tweaks, b
 ### Tasks
 Tasks in a Colony are used to coordinate work and facilitate the earning of reputation. Completing tasks gets you paid and/or earns you reputation in the form of a token, in our case: [A Token of JOY](https://etherscan.io/token/0xd9fba6e4bcc44e3429ae4aea0fa480cb451f3ea9)
 
-### Domains
-The JOY Project is organized into Domains. Each Chapter has its own Domain.
+TODO: Standardize naming conventions for Tasks (e.g. `<CHAPTER TITLE>: Contribute a recipe to the <chapter> chapter in _Cookin' Crypto Style!_`
 
-Domains are a structure for compartmentalizing the work and shared resources of a colony into smaller, more specialized sub-groups which are analogous to the departments of a traditional company (or chapters in a cookbook). Given the flexibility of Colony domains, a colony could forseeably branch off into something greater than its initial purpose.
+### Domains
+The JOY Project is organized into Domains.
+
+Domains are a structure for compartmentalizing the work and shared resources of a colony into smaller, more specialized sub-groups which are analogous to the departments of a traditional company. Given the flexibility of Colony domains, a colony could forseeably branch off into something greater than its initial purpose.
 
 In addition to Chapter Domains, the initial base domains in The JOY Project are:
-- Chef
-- Producer
-- Patron
-- Designer
-- Publisher
+- Chef - Craft and share a detailed recipe for _Cookin' Crypto Style!_
+- Producer - Create a recipe in the `Chef` Domain used in someone else's dish OR Provide the ingredient and/or prepared items for someone else's recipe
+- Patron - Purchase something from a JOY Market OR Contribute ETH/DAI to The Joy Project
+- Designer - Craft Artwork for The JOY Project
+- Publisher - Pinners and Printers
 
 
 ### The JOY Token
@@ -43,8 +45,8 @@ The JOY Token is the native token for The Joy Project. JOY is earned by completi
 Colony makes it possible for any funds contributed to or earned by The JOY Project will also be distributed in proportion to the amount of JOY each participant holds in their respective wallet.
 
 TODO:
-- New Table of Contents
-- Domains
-- Stage Tasks
-- Define Goals and Metrics
+- [Chapters](https://www.notion.so/lightnode/Chapters-cbfeadc3fc2b4d85a312da628d9124e5)
+- Domains - keeping the same. Having a domain for every chapter is too expensive and would be bad UX
+- Stage Tasks - PREREQUISITE: Domain-Level Funding Feature in Production in the [Colony dApp](https://www.github.com/JoinColony/colonyDapp)
+- [Define Goals, Metrics, and Rewards Structure](https://www.notion.so/lightnode/Rewards-Structure-89ef2dcc35784817b1df50ccd92ad7fa)
 

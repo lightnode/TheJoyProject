@@ -2,7 +2,7 @@
 
 
 # Joy of Cooking, Community, Crypto, and Collaboration
-This is intended to be a collaborative experiment using existing and future web3 tools. The goal will be to create a permanent, historical digital record and physical print version of a Crypto Community Cookbook inspired by the classic 1931 cookbook, Joy of Cooking.
+This is intended to be a collaborative experiment using existing and future web3 tools. The goal will be to create a permanent, historical digital record and multiple physical print releases of a Crypto Community Cookbook inspired by the classic 1931 cookbook, Joy of Cooking.
 
 Ancillary goals include introducing more people to the features of crypto, gathering user feedback for the different tools and platforms used, practicing decentralized coordination, growing the adoption of decentralized marketplaces, and producing a replicable framework for decentralized publication.
 

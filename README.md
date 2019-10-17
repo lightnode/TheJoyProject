@@ -1,4 +1,4 @@
-![Joy of Cooking Cover](./images/joyOfCookingCover.png)
+![The JOY Project](./images/joy.png)
 
 
 # Joy of Cooking, Community, Crypto, and Collaboration

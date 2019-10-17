@@ -1,5 +1,7 @@
 ![The JOY Project](./images/joy.png)
 
+**NOTE**: Will be working mostly of The JOY Project [Notion Page](https://www.notion.so/lightnode/The-JOY-Project-3a08c77e51bb4c549b998d4e99973ab0)
+
 
 # Joy of Cooking, Community, Crypto, and Collaboration
 This is intended to be a collaborative experiment using existing and future web3 tools. The goal will be to create a permanent, historical digital record and multiple physical print releases of a Crypto Community Cookbook inspired by the classic 1931 cookbook, Joy of Cooking.

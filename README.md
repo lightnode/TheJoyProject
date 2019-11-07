@@ -1,6 +1,6 @@
 ![The JOY Project](./images/joy.png)
 
-**NOTE**: Will be working mostly off The JOY Project [Notion Page](https://www.notion.so/lightnode/The-JOY-Project-3a08c77e51bb4c549b998d4e99973ab0)
+**NOTE**: The new HQ for The JOY Project is this [Notion Page](https://www.notion.so/lightnode/JOY-Project-HQ-3a08c77e51bb4c549b998d4e99973ab0)
 
 
 # Joy of Cooking, Community, Crypto, and Collaboration
